@@ -51,7 +51,7 @@ Nació como proyecto final del bootcamp Full Stack de 4Geeks Academy (Grupo 3) y
 
 ## 🤖 Cómo trabajo
 
-Trabajo con Dirsi, mi asistente de IA, como sistema: yo dirijo y decido. Delego en ella la construcción, la verificación y la documentación, pero yo también entro, reviso y corro los proyectos para verificarlos por mi cuenta. Cada proyecto deja huella en **[mundo-dirsi](https://github.com/mieresantonio/mundo-dirsi)** y los repos se mejoran en bucles continuos de revisión.
+Trabajo con Dirsi, mi sistema de asistencia con IA: yo dirijo y decido. Delego en ella la construcción, la verificación y la documentación, y verifico cada proyecto por mi cuenta, revisando y ejecutando el código directamente. Cada proyecto deja huella en **[mundo-dirsi](https://github.com/mieresantonio/mundo-dirsi)** y los repos se mejoran en bucles continuos de revisión.
 
 ## 📫 Contacto
 
