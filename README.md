@@ -47,7 +47,7 @@ Nació como proyecto final del bootcamp Full Stack de 4Geeks Academy (Grupo 3) y
 - Terminando el curso individual Full Stack con IA de 4Geeks Academy, mi prioridad actual.
 - Evolucionando Block Ethos como producto propio.
 - Buscando prácticas o un primer puesto junior remoto.
-- Inscrito en el taller en directo Agentic Engineer 2027 (Tech Sherpas / LIDR), el martes 24 de noviembre de 2026.
+- Asistí al taller en directo Agentic Engineer 2027 (Tech Sherpas / LIDR), el 24 de noviembre de 2026.
 
 ## 🤖 Cómo trabajo
 
