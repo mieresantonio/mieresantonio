@@ -51,7 +51,7 @@ Nació como proyecto final del bootcamp Full Stack de 4Geeks Academy (Grupo 3) y
 
 ## 🤖 Cómo trabajo
 
-Trabajo con Dirsi, mi sistema de asistencia con IA: yo dirijo y decido. Delego en ella la construcción, la verificación y la documentación, y verifico cada proyecto por mi cuenta, revisando y ejecutando el código directamente. Cada proyecto deja huella en **[mundo-dirsi](https://github.com/mieresantonio/mundo-dirsi)** y los repos se mejoran en bucles continuos de revisión.
+Trabajo con Dirsi, mi sistema de asistencia con IA, en la línea del vibe coding: yo dirijo y decido, describo la idea exacta del producto o proyecto y delego en ella la construcción, la verificación y la documentación. Detrás trabajan varios agentes de IA a la vez: Dirsi dirige qué se construye, qué se modifica y qué se revisa. No es código a ciegas: verifico cada proyecto por mi cuenta, revisando y ejecutando el código directamente. Cada proyecto deja huella en **[mundo-dirsi](https://github.com/mieresantonio/mundo-dirsi)** y los repos se mejoran en bucles continuos de revisión.
 
 ## 📫 Contacto
 
